@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mbhojanapalli
+- 👋 Hi, I’m @mbhojanapalli /Mani Harsha
 - 👀 I’m interested in Networking and playing around computers and break them and learn how they communicate at the backend and then fix them as is. 
 - 🌱 I’m currently learning to move the ball to cloud court to and write the differences between physical and virtual enormously.
 - 💞️ I’m looking to collaborate on any projects related to them to learn from any individual and perform things in better way for a better world.
